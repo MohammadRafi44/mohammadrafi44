@@ -40,16 +40,48 @@ Senior Quality Engineering leader with **15+ years of experience** building and 
 
 ---
 
-## Tooling
+## 🧰 Tooling
 
+### Languages & Automation
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="42"/>
+</p>
+
+### CI/CD, DevOps & Source Control
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
+</p>
+
+### Cloud, Containers & Infrastructure
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="42"/>
+</p>
+
+### DevSecOps & Security
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/veracode/veracode-original.svg" width="42"/>
+</p>
+
+### Performance, Monitoring & Reliability
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="42"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="42"/>
+</p>
+
+### Test Management & Collaboration
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="42"/>
 </p>
 
@@ -68,24 +100,6 @@ Senior Quality Engineering leader with **15+ years of experience** building and 
 | **Test Management & Reporting** | Jira, Zephyr, Xray, Octane, TestRail, qTest, Azure DevOps Boards, Power BI |
 | **API & Tooling** | Postman, Apidog, GraphQL, VS Code, IntelliJ IDEA |
 | **Platforms & Databases** | Linux, Windows Server, Oracle, SQL Server, PostgreSQL |
-
----
-
-## 📌 Pinned / Featured Work
-
-> (Pin these repositories in GitHub UI once they exist)
-
-- **Enterprise QA Automation Framework**  
-  Java | Selenium | Appium | TestNG | Rest Assured | ExtentReports
-
-- **CI/CD Quality Gates & DevSecOps**  
-  Azure DevOps | SonarCloud | Trivy | Security Scanning
-
-- **Test Metrics & Reporting Dashboard**  
-  Jira | Zephyr | Quality KPIs | Executive Reporting
-
-- **TCoE QA Handbook & Governance Model**  
-  QA Strategy | STLC | Operating Model | Best Practices
 
 ---
 
