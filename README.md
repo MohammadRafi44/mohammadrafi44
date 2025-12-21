@@ -53,6 +53,73 @@ Senior Quality Engineering leader with **15+ years of experience** building and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="42"/>
 </p>
 
+## 🛠️ Technology Landscape
+
+### 💻 Languages & Automation Frameworks
+Java · Python · Golang  
+Selenium · Appium · Rest Assured · Playwright · Cypress · Robot Framework · PyTest · Karate DSL
+
+---
+
+### 🔁 CI/CD, DevOps & Source Control
+Azure DevOps · Jenkins · GitHub Actions · Bamboo · Travis CI · CircleCI  
+Git · GitHub · GitLab · Bitbucket  
+Nexus · JFrog Artifactory · AWS CodeArtifact
+
+---
+
+### 🔐 DevSecOps & Security Testing
+SonarQube · Checkmarx · Trivy · Snyk · Veracode · Fortify  
+OWASP ZAP · Invicti · Aqua Security  
+HashiCorp Vault · Azure Key Vault · GitHub Secrets
+
+---
+
+### 🚀 Performance Engineering & Observability
+JMeter · Gatling · Locust  
+Prometheus · Grafana · ELK Stack  
+New Relic · CloudWatch · Dynatrace
+
+---
+
+### ☁️ Cloud, Containers & Infrastructure
+Azure · AWS · Google Cloud  
+Docker · Kubernetes (EKS, AKS, GKE)  
+Terraform · Ansible · CloudFormation
+
+---
+
+### 📱 Web, Mobile & Multi-Device Testing
+Web UI · API · Android · iOS · OTT / Streaming Platforms  
+BrowserStack · LambdaTest · Sauce Labs · AWS Device Farm · HeadSpin · Witbe · Suitest
+
+---
+
+### 🧪 Enterprise Test Automation Platforms
+Tricentis Tosca (Architect)  
+OpenText UFT (One, Developer, Digital Lab)  
+Katalon · OpKey · AccelQ · Eggplant · Leapwork · TestComplete
+
+---
+
+### 📊 Test Management, Planning & Reporting
+Jira · Zephyr · Xray · Octane · TestRail · qTest  
+Azure DevOps Boards · MS Project  
+Power BI · Allure · Extent Reports · JUnit · HTML Reports
+
+---
+
+### 🧩 API, Integration & Tooling
+Postman · Apidog · GraphQL  
+Visual Studio · VS Code · IntelliJ IDEA
+
+---
+
+### 🖥️ Platforms & Databases
+Linux (Ubuntu, CentOS, RHEL) · Windows Server · Container OS  
+Oracle · SQL Server · PostgreSQL · MSSQL
+
+
 ---
 
 ## 📌 Pinned / Featured Work
