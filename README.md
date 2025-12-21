@@ -40,7 +40,7 @@ Senior Quality Engineering leader with **15+ years of experience** building and 
 
 ---
 
-## 🛠️ Technology & Tooling
+## Tooling
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
@@ -55,70 +55,19 @@ Senior Quality Engineering leader with **15+ years of experience** building and 
 
 ## 🛠️ Technology Landscape
 
-### 💻 Languages & Automation Frameworks
-Java · Python · Golang  
-Selenium · Appium · Rest Assured · Playwright · Cypress · Robot Framework · PyTest · Karate DSL
-
----
-
-### 🔁 CI/CD, DevOps & Source Control
-Azure DevOps · Jenkins · GitHub Actions · Bamboo · Travis CI · CircleCI  
-Git · GitHub · GitLab · Bitbucket  
-Nexus · JFrog Artifactory · AWS CodeArtifact
-
----
-
-### 🔐 DevSecOps & Security Testing
-SonarQube · Checkmarx · Trivy · Snyk · Veracode · Fortify  
-OWASP ZAP · Invicti · Aqua Security  
-HashiCorp Vault · Azure Key Vault · GitHub Secrets
-
----
-
-### 🚀 Performance Engineering & Observability
-JMeter · Gatling · Locust  
-Prometheus · Grafana · ELK Stack  
-New Relic · CloudWatch · Dynatrace
-
----
-
-### ☁️ Cloud, Containers & Infrastructure
-Azure · AWS · Google Cloud  
-Docker · Kubernetes (EKS, AKS, GKE)  
-Terraform · Ansible · CloudFormation
-
----
-
-### 📱 Web, Mobile & Multi-Device Testing
-Web UI · API · Android · iOS · OTT / Streaming Platforms  
-BrowserStack · LambdaTest · Sauce Labs · AWS Device Farm · HeadSpin · Witbe · Suitest
-
----
-
-### 🧪 Enterprise Test Automation Platforms
-Tricentis Tosca (Architect)  
-OpenText UFT (One, Developer, Digital Lab)  
-Katalon · OpKey · AccelQ · Eggplant · Leapwork · TestComplete
-
----
-
-### 📊 Test Management, Planning & Reporting
-Jira · Zephyr · Xray · Octane · TestRail · qTest  
-Azure DevOps Boards · MS Project  
-Power BI · Allure · Extent Reports · JUnit · HTML Reports
-
----
-
-### 🧩 API, Integration & Tooling
-Postman · Apidog · GraphQL  
-Visual Studio · VS Code · IntelliJ IDEA
-
----
-
-### 🖥️ Platforms & Databases
-Linux (Ubuntu, CentOS, RHEL) · Windows Server · Container OS  
-Oracle · SQL Server · PostgreSQL · MSSQL
-
+| Capability Area | Technologies |
+|-----------------|--------------|
+| **Languages & Automation** | Java, Python, Golang, Selenium, Appium, Rest Assured, Playwright, Cypress, Robot Framework, PyTest, Karate |
+| **CI/CD & DevOps** | Azure DevOps, Jenkins, GitHub Actions, Bamboo, Travis CI, CircleCI |
+| **Source Control & Artifacts** | Git, GitHub, GitLab, Bitbucket, Nexus, JFrog Artifactory, AWS CodeArtifact |
+| **DevSecOps & Security** | SonarQube, Checkmarx, Trivy, Snyk, Veracode, Fortify, OWASP ZAP, Aqua Security |
+| **Performance & Observability** | JMeter, Gatling, Locust, Grafana, Prometheus, ELK Stack, New Relic, Dynatrace |
+| **Cloud & Infrastructure** | Azure, AWS, GCP, Docker, Kubernetes (EKS, AKS, GKE), Terraform, Ansible |
+| **Web, Mobile & Devices** | Web, API, Android, iOS, OTT/Streaming, BrowserStack, LambdaTest, Sauce Labs, AWS Device Farm |
+| **Enterprise Automation Platforms** | Tricentis Tosca, OpenText UFT (One, Developer, Digital Lab), Katalon, OpKey, AccelQ, Eggplant |
+| **Test Management & Reporting** | Jira, Zephyr, Xray, Octane, TestRail, qTest, Azure DevOps Boards, Power BI |
+| **API & Tooling** | Postman, Apidog, GraphQL, VS Code, IntelliJ IDEA |
+| **Platforms & Databases** | Linux, Windows Server, Oracle, SQL Server, PostgreSQL |
 
 ---
 
