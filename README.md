@@ -40,67 +40,20 @@ Senior Quality Engineering leader with **15+ years of experience** building and 
 
 ---
 
-## 🧰 Tooling
-
-### Languages & Automation
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appium/appium-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="42"/>
-</p>
-
-### CI/CD, DevOps & Source Control
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42"/>
-</p>
-
-### Cloud, Containers & Infrastructure
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="42"/>
-</p>
-
-### DevSecOps & Security
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/veracode/veracode-original.svg" width="42"/>
-</p>
-
-### Performance, Monitoring & Reliability
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="42"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="42"/>
-</p>
-
-### Test Management & Collaboration
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="42"/>
-</p>
+## 🛠️ Tooling & Technology Landscape
 
 ## 🛠️ Technology Landscape
 
-| Capability Area | Technologies |
-|-----------------|--------------|
-| **Languages & Automation** | Java, Python, Golang, Selenium, Appium, Rest Assured, Playwright, Cypress, Robot Framework, PyTest, Karate |
-| **CI/CD & DevOps** | Azure DevOps, Jenkins, GitHub Actions, Bamboo, Travis CI, CircleCI |
-| **Source Control & Artifacts** | Git, GitHub, GitLab, Bitbucket, Nexus, JFrog Artifactory, AWS CodeArtifact |
-| **DevSecOps & Security** | SonarQube, Checkmarx, Trivy, Snyk, Veracode, Fortify, OWASP ZAP, Aqua Security |
-| **Performance & Observability** | JMeter, Gatling, Locust, Grafana, Prometheus, ELK Stack, New Relic, Dynatrace |
-| **Cloud & Infrastructure** | Azure, AWS, GCP, Docker, Kubernetes (EKS, AKS, GKE), Terraform, Ansible |
-| **Web, Mobile & Devices** | Web, API, Android, iOS, OTT/Streaming, BrowserStack, LambdaTest, Sauce Labs, AWS Device Farm |
-| **Enterprise Automation Platforms** | Tricentis Tosca, OpenText UFT (One, Developer, Digital Lab), Katalon, OpKey, AccelQ, Eggplant |
-| **Test Management & Reporting** | Jira, Zephyr, Xray, Octane, TestRail, qTest, Azure DevOps Boards, Power BI |
-| **API & Tooling** | Postman, Apidog, GraphQL, VS Code, IntelliJ IDEA |
-| **Platforms & Databases** | Linux, Windows Server, Oracle, SQL Server, PostgreSQL |
-
+| Capability Area | Stack |
+|-----------------|-------|
+| **Languages & Automation** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Java, Python, Golang, Selenium, Appium, Playwright, Cypress, Rest Assured |
+| **CI/CD & DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="20"/> Azure DevOps, Jenkins, GitHub Actions, Bamboo |
+| **Source Control & Artifacts** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20"/> Git, GitHub, GitLab, Bitbucket, Nexus, JFrog |
+| **DevSecOps & Security** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" width="20"/> SonarQube, Checkmarx, Trivy, Snyk, Veracode |
+| **Performance & Observability** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="20"/> JMeter, Gatling, Grafana, Prometheus, New Relic |
+| **Cloud & Infrastructure** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="20"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="20"/> Azure, AWS, Docker, Kubernetes, Terraform |
+| **Web, Mobile & Devices** | Web, API, Android, iOS, OTT, BrowserStack, LambdaTest |
+| **Test Management & Reporting** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="20"/> Jira, Zephyr, Xray, TestRail, Azure DevOps |
 ---
 
 ## 📊 GitHub Insights
